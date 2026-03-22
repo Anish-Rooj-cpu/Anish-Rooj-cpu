@@ -9,7 +9,7 @@
 <a href="https://github.com/Anish-Rooj-cpu">
 <img src="https://img.shields.io/badge/GitHub-Anish--Rooj--cpu-000000?style=for-the-badge&logo=github"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Anish-Rooj-cpu&label=Profile%20Views&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Anish-Rooj-cpu&style=flat-square"/>
 </p>
 
 ---
