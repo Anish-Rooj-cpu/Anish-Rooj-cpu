@@ -26,7 +26,7 @@ Focused on performance, microarchitecture and clean RTL
 
 ---
 
-# 🏆 Achievements
+# 🏆 Badges
 
 <p align="center">
 
