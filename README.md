@@ -37,7 +37,7 @@ I am a **CPU Designer and Computer Architecture enthusiast** focused on building
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish-Rooj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish-Rooj-cpu&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anish-Rooj-cpu&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
