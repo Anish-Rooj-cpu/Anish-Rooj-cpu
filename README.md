@@ -28,16 +28,6 @@ I’m also interested in open-source contributions and learning by reading, modi
 
 ---
 
-# 🏆 Badges
-
-<p align="center">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100"/>
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -51,6 +41,15 @@ I’m also interested in open-source contributions and learning by reading, modi
 
 ---
 
+# 🏆 Badges
+
+<p align="center">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100"/>
+</p>
+
+---
 # 🤝 Let's Connect
 
 <p align="center">
