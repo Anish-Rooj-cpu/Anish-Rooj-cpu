@@ -26,17 +26,24 @@ Focused on performance, microarchitecture and clean RTL
 
 ---
 
-# 🏆 Badges
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hardware-Design-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL-Engineer-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer-Architecture-00F5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Processor-Design-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Verilog-SystemVerilog-00F5FF?style=for-the-badge"/>
+<a href="https://github.com/Anish-Rooj-cpu">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="110"/>
+</a>
+
+<a href="https://github.com/Anish-Rooj-cpu">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="110"/>
+</a>
+
+<a href="https://github.com/Anish-Rooj-cpu">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="110"/>
+</a>
 
 </p>
+
 
 ---
 
