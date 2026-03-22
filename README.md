@@ -33,12 +33,12 @@ I am a **CPU Designer and Computer Architecture enthusiast** focused on building
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish-Rooj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish-Rooj-cpu&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish-Rooj&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anish-Rooj&theme=tokyonight&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anish-Rooj-cpu&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Verilog • SystemVerilog • FPGA • Computer Architecture
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Rooj&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Rooj-cpu&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Verilog • SystemVerilog • FPGA • Computer Architecture
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Rooj&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anish-Rooj-cpu&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
