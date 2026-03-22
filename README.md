@@ -1,70 +1,60 @@
 ## Hi there 👋
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ANISH%20ROOJ&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00E5FF&animation=fadeIn&desc=RISC-V%20CPU%20Designer%20%7C%20RTL%20Engineer&descAlign=50&descAlignY=65"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=900&lines=RISC-V+CPU+Designer;RTL+Engineer;Computer+Architecture+Enthusiast;Verilog+%7C+SystemVerilog;Pipeline+Processor+Builder"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00E5FF&center=true&vCenter=true&width=900&lines=RISC-V+CPU+Designer;RTL+Engineer;Computer+Architecture;Pipeline+Processor+Builder;Verilog+%7C+SystemVerilog"/>
 </p>
 
 <p align="center">
+<a href="https://www.linkedin.com/in/anish-rooj">
+<img src="https://img.shields.io/badge/LinkedIn-Anish%20Rooj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=Anish-Rooj&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# ⚡ Anish Rooj — CPU Designer
+# 👨‍💻 About Me
 
-```text
-Designing Processors • Building RISC-V • Writing RTL • Exploring Architecture
-```
+I am a **CPU Designer and Computer Architecture enthusiast** focused on building processors from scratch.
 
----
-
-# 🧠 About Me
-
-* 🔧 Designing RISC-V Processors
-* ⚡ Building Pipelined CPUs
-* 🧩 Computer Architecture
-* 💻 Verilog / SystemVerilog
-* 🚀 FPGA + Digital Design
-* 🧠 Microarchitecture Design
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Verilog-05122A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-0A0A0A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RTL%20Design-1f425f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Architecture-0e75b6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FPGA-00979D?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🏆 Badges
-
-<p align="center">
-
-<img src="BADGE_URL_1" width="110"/>
-<img src="BADGE_URL_2" width="110"/>
-<img src="BADGE_URL_3" width="110"/>
-<img src="BADGE_URL_4" width="110"/>
-
-</p>
+* 🔧 Designing **RISC-V Processors**
+* ⚡ Building **Single Cycle & Pipeline CPUs**
+* 🧠 Computer Architecture & Microarchitecture
+* 💻 Verilog / SystemVerilog RTL Design
+* 🚀 VGA Controller + Peripherals
+* 🔬 Digital Logic & FPGA Design
+* 🧩 Custom ISA + CPU Experiments
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-Rooj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish-Rooj&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish-Rooj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anish-Rooj&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+# 🧠 Tech Focus
+
+```text
+RISC-V • CPU Design • Pipeline Architecture • RTL Design
+Verilog • SystemVerilog • FPGA • Computer Architecture
+```
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Rooj&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -77,7 +67,9 @@ Designing Processors • Building RISC-V • Writing RTL • Exploring Architect
 </p>
 
 ---
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
+
 
