@@ -77,15 +77,6 @@ Designing Processors • Building RISC-V • Writing RTL • Exploring Architect
 </p>
 
 ---
-
-# 🔥 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Rooj&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
